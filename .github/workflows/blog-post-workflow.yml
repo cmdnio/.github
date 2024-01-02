@@ -17,4 +17,4 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://cmdn.io/blog/rss.xml"
-          readme_path: "/profile/README.md"
+          readme_path: "./profile/README.md"
