@@ -37,11 +37,11 @@ We are an end-to-end digital product development company specializing in MVP dev
 - [CMDN Interviews: Pablo Filomeno](https://cmdn.io/blog/cmdn-interviews-pablo-filomeno)
 - [CMDN Interviews: Aleksey Denysyuk](https://cmdn.io/blog/cmdn-interviews-aleksey-denysyuk)
 - [CMDN Interviews: Alejandro Ribó](https://cmdn.io/blog/cmdn-interviews-alejandro-ribo)
-- [CMDN Interviews: Clémence Hermann](https://cmdn.io/blog/cmdn-interviews-clemence-hermann)
 - [CMDN Interviews: Victor Horcasitas](https://cmdn.io/blog/cmdn-interviews-victor-horcasitas)
 - [CMDN Interviews: Elliott Locke](https://cmdn.io/blog/cmdn-interviews-elliott-locke)
 - [CMDN Interviews: Anne Dwyer](https://cmdn.io/blog/cmdn-interviews-anne-dwyer)
 - [The Role of Technical Co-Founders in Startup Success](https://cmdn.io/blog/role-of-technical-co-founders-in-startup-success)
+- [The Importance of Validating Your Startup Idea Before Coding](https://cmdn.io/blog/importance-of-validating-your-startup-idea-before-coding)
 <!-- BLOG-POST-LIST:END -->
 <br />
 
