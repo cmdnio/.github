@@ -22,6 +22,7 @@ We are an end-to-end digital product development company specializing in MVP dev
 
 ## Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Case study: Our experience creating a boat show companion app](https://cmdn.io/blog/case-study-our-experience-creating-a-boat-show-companion-app)
 - [13 Essential Visual Studio Code Extensions for Frontend Developers](https://cmdn.io/blog/13-essential-visual-studio-code-extensions-for-frontend-developers)
 - [How to Prepare Your Questions for Product Discovery Interviews](https://cmdn.io/blog/how-to-prepare-your-questions-for-product-discovery-interviews)
 - [CMDN Radar: Our Tech Stack in 2024](https://cmdn.io/blog/tech-stack-2024)
@@ -41,7 +42,6 @@ We are an end-to-end digital product development company specializing in MVP dev
 - [CMDN Interviews: Elliott Locke](https://cmdn.io/blog/cmdn-interviews-elliott-locke)
 - [CMDN Interviews: Anne Dwyer](https://cmdn.io/blog/cmdn-interviews-anne-dwyer)
 - [The Role of Technical Co-Founders in Startup Success](https://cmdn.io/blog/role-of-technical-co-founders-in-startup-success)
-- [The Importance of Validating Your Startup Idea Before Coding](https://cmdn.io/blog/importance-of-validating-your-startup-idea-before-coding)
 <!-- BLOG-POST-LIST:END -->
 <br />
 
