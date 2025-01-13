@@ -34,14 +34,14 @@ We are an end-to-end digital product development company specializing in MVP dev
 - [The importance of launching early](https://cmdn.io/blog/the-importance-of-launching-early)
 - [MobX State Tree - New generation of the state containers &lpar;BarcelonaJS talk&rpar;](https://cmdn.io/blog/mobx-state-tree-new-generation-of-the-state-containers-barcelonajs-talk)
 - [6 Types of Startup Journeys](https://cmdn.io/blog/6-types-of-startup-journeys)
-- [Learning From Eric Ries: A Pioneer of the Lean Startup Methodology](https://cmdn.io/blog/learning-from-eric-ries-a-pioneer-of-the-lean-startup-methodology)
-- [CMDN Interviews: Vedrana Rogoznica](https://cmdn.io/blog/cmdn-interviews-vedrana-rogoznica)
-- [CMDN Interviews: Pablo Filomeno](https://cmdn.io/blog/cmdn-interviews-pablo-filomeno)
-- [CMDN Interviews: Aleksey Denysyuk](https://cmdn.io/blog/cmdn-interviews-aleksey-denysyuk)
-- [CMDN Interviews: Alejandro Ribó](https://cmdn.io/blog/cmdn-interviews-alejandro-ribo)
-- [CMDN Interviews: Victor Horcasitas](https://cmdn.io/blog/cmdn-interviews-victor-horcasitas)
-- [CMDN Interviews: Elliott Locke](https://cmdn.io/blog/cmdn-interviews-elliott-locke)
+- [The Importance of Validating Your Startup Idea Before Coding](https://cmdn.io/blog/importance-of-validating-your-startup-idea-before-coding)
+- [The Role of Technical Co-Founders in Startup Success](https://cmdn.io/blog/role-of-technical-co-founders-in-startup-success)
 - [CMDN Interviews: Anne Dwyer](https://cmdn.io/blog/cmdn-interviews-anne-dwyer)
+- [CMDN Interviews: Elliott Locke](https://cmdn.io/blog/cmdn-interviews-elliott-locke)
+- [CMDN Interviews: Victor Horcasitas](https://cmdn.io/blog/cmdn-interviews-victor-horcasitas)
+- [CMDN Interviews: Alejandro Ribó](https://cmdn.io/blog/cmdn-interviews-alejandro-ribo)
+- [CMDN Interviews: Aleksey Denysyuk](https://cmdn.io/blog/cmdn-interviews-aleksey-denysyuk)
+- [CMDN Interviews: Pablo Filomeno](https://cmdn.io/blog/cmdn-interviews-pablo-filomeno)
 <!-- BLOG-POST-LIST:END -->
 <br />
 
